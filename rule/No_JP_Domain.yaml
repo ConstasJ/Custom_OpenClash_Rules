@@ -1,9 +1,38 @@
 # Generated from rule/No_JP.list
 # REPO: https://github.com/ConstasJ/Custom_OpenClash_Rules
 # SOURCE: https://github.com/ConstasJ/Custom_OpenClash_Rules/blob/main/rule/No_JP.list
-# TOTAL: 3
+# TOTAL: 32
 
 payload:
   - '*bilinovel*'
   - '*linovelib*'
-  - '+.copy'
+  - '+.18comic-god.cc'
+  - '+.18comic-god.club'
+  - '+.18comic-god.xyz'
+  - '+.18comic.cc'
+  - '+.18comic.company'
+  - '+.18comic.org'
+  - '+.18comic.vip'
+  - '+.2025copy.com'
+  - '+.2026copy.com'
+  - '+.asjmapihost.cc'
+  - '+.bikaa.xyz'
+  - '+.bikac.xyz'
+  - '+.bikaios.xyz'
+  - '+.cdnblackmyth.club'
+  - '+.copy-manga.com'
+  - '+.copy20.com'
+  - '+.copy2000.online'
+  - '+.diwodiwo.xyz'
+  - '+.mangacopy.com'
+  - '+.mangafuna.xyz'
+  - '+.mangafunb.fun'
+  - '+.manhuabika.com'
+  - '+.picacgp.com'
+  - '+.picacgy.com'
+  - '+.picacn.xyz'
+  - '+.picacomic.com'
+  - '+.picacomic.xyz'
+  - '+.wikawika.xyz'
+  - 'ad-channel.diwodiwo.xyz'
+  - 'ad-display.diwodiwo.xyz'
