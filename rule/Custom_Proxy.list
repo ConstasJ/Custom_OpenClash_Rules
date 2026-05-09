@@ -29,3 +29,7 @@ DOMAIN-SUFFIX,onedrive.live.com
 # 其他
 DOMAIN-SUFFIX,7pzzv.us
 DOMAIN-SUFFIX,hoyoverse.com
+# 不太好用的谷歌直连域名
+GEOSITE,google-cn
+# 某B轻小说
+DOMAIN-KEYWORD,linovelib
