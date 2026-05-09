@@ -1,6 +1,39 @@
-GEOSITE,copymanga
-DOMAIN-SUFFIX,copy
+# copymanga
+DOMAIN-SUFFIX,2025copy.com
+DOMAIN-SUFFIX,copy-manga.com
+DOMAIN-SUFFIX,copy20.com
+DOMAIN-SUFFIX,copy2000.online
+DOMAIN-SUFFIX,mangacopy.com
+DOMAIN-SUFFIX,mangafuna.xyz
+DOMAIN-SUFFIX,mangafunb.fun
+DOMAIN-SUFFIX,2026copy.com
+
+# 18comic
+DOMAIN-SUFFIX,18comic-god.cc
+DOMAIN-SUFFIX,18comic-god.club
+DOMAIN-SUFFIX,18comic-god.xyz
+DOMAIN-SUFFIX,18comic.cc
+DOMAIN-SUFFIX,18comic.company
+DOMAIN-SUFFIX,18comic.org
+DOMAIN-SUFFIX,18comic.vip
+DOMAIN-SUFFIX,asjmapihost.cc
+DOMAIN-SUFFIX,cdnblackmyth.club
+
+# picacg
+DOMAIN-SUFFIX,bikaa.xyz
+DOMAIN-SUFFIX,bikac.xyz
+DOMAIN-SUFFIX,bikaios.xyz
+DOMAIN-SUFFIX,manhuabika.com
+DOMAIN-SUFFIX,picacgp.com
+DOMAIN-SUFFIX,picacgy.com
+DOMAIN-SUFFIX,picacn.xyz
+DOMAIN-SUFFIX,picacomic.com
+DOMAIN-SUFFIX,picacomic.xyz
+DOMAIN-SUFFIX,wikawika.xyz
+DOMAIN-SUFFIX,diwodiwo.xyz
+DOMAIN,ad-channel.diwodiwo.xyz
+DOMAIN,ad-display.diwodiwo.xyz
+
+# Bilinovel
 DOMAIN-KEYWORD,bilinovel
 DOMAIN-KEYWORD,linovelib
-GEOSITE,picacg
-GEOSITE,18comic
