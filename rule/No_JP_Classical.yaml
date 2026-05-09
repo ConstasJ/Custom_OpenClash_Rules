@@ -1,0 +1,10 @@
+# Generated from rule/No_JP.list
+# REPO: https://github.com/ConstasJ/Custom_OpenClash_Rules
+# SOURCE: https://github.com/ConstasJ/Custom_OpenClash_Rules/blob/main/rule/No_JP.list
+# TOTAL: 3
+
+payload:
+  - DOMAIN-KEYWORD,bilinovel
+  - DOMAIN-KEYWORD,linovelib
+  - DOMAIN-SUFFIX,copy
+
